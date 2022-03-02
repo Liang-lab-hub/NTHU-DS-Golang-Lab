@@ -1,4 +1,6 @@
 ## Lab_Golang
 verify implementation  
-```$ go mod tidy
-$ go test -race ./...```
+```
+$ go mod tidy
+$ go test -race ./...
+```
