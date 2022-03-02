@@ -1,3 +1,3 @@
-verify implementation
+verify implementation  
 `go mod tidy
 go test -race ./...`
